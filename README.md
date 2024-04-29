@@ -1,6 +1,6 @@
 #  ij.start.canon 
 
-[![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-started.png)](https://can.printredir.com)
 
 Canon Printer enables users to print, scan, copy quickly. Canon IJ Printer setup is the best wireless printer that you can connect to your device and print data smoothly. With [ij.start.canon](https://ij-ijstart-canon.github.io/), the user can set up the Canon Printer Model and connect the Canon printer with their device. Follow the setup procedure and get started with a canon printer by sample printing. 
 
